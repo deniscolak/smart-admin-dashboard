@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="569" height="183" viewBox="0 0 569 183">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 175px;
+        fill: #eeebeb;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        font-family: Montserrat;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        font-size: 100px;
+        opacity: 0.84;
+        fill: #7bf0c3;
+      }
+
+      .cls-3, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        font-size: 162.5px;
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #eeebeb;
+        stroke-width: 20px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="379.969" y1="-85.003" x2="190.969" y2="-177.185" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#70d9b2"/>
+      <stop offset="1" stop-color="#1c855e"/>
+    </linearGradient>
+  </defs>
+  <text id="SMART" class="cls-1" transform="translate(-1.863 114.139) scale(0.91)">SMART</text>
+  <text id="DASHBOARD" class="cls-2" transform="translate(-0.055 182.325) scale(0.846)">DASHBOARD</text>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-3" d="M210.958-225.594h149a20,20,0,0,1,20,20v149a20,20,0,0,1-20,20h-149a20,20,0,0,1-20-20v-149A20,20,0,0,1,210.958-225.594Z"/>
+  <text id="D" class="cls-4" x="214.357" y="-74.685">D</text>
+  <path class="cls-5" d="M251-154"/>
+</svg>
