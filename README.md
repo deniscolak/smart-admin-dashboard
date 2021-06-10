@@ -3,10 +3,9 @@
 Flutter Web Smart Admin & Panel Dashboard with flutter UI kit.
 
 
-
 ### Support 
 
-> ⭐️ If you want to access the backend(Firebase or Django) integrated fully management system with comprehensive features and good documentation. You can leave me message after donating $199 to below BTC address. ⭐️
+> ⭐️ If you want to access the backend(Firebase or Django) integrated fully management system with comprehensive features and good documentation. You can leave me message. ⭐️
 
 
 [![BTC](https://img.shields.io/badge/BTC-33FY83UU8o5q8qogNzFY2CegPn6PzRCsJA-f5f5f5?logo=bitcoin)](https://blockchain.com/btc/address/33FY83UU8o5q8qogNzFY2CegPn6PzRCsJA)
